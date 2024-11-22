@@ -1,6 +1,12 @@
+### Liens Kaggle Notebook
+
+**Machine Learning**
+https://www.kaggle.com/code/s4chac/infoia-datac-irm-ml
+
+**Transformers + NN**
+https://www.kaggle.com/code/s4chac/infoia-datac-irm-transformer
+
 ### Liens Utiles
 
+**Challenge Data**
 https://challengedata.ens.fr/participants/challenges/150/
-
-https://colab.research.google.com/drive/1OOzMtT62OFl_tURo4TWjFKJf6jRMc5_O?usp=share_link
-
